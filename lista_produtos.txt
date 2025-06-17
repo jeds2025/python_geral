@@ -1,0 +1,14 @@
+    CÓDIGO PRODUTO                UNIDADES        VALOR CATEGORIA          VALOR TOTAL
+=====================================================================================
+         1 Alicate                      10 R$     12.22 Ferramentas     R$      122.20
+         2 Chave de Fenda              300 R$      1.01 Ferramentas     R$      303.00
+         3 Piso Ceramica X               5 R$     54.23 Pisos           R$      271.15
+         4 Produto 004                 100 R$     52.01 Sem Categoria   R$     5201.00
+         5 Produto 005                1000 R$     45.60 Sem Categoria   R$    45600.00
+         6 Produto 006                  14 R$     56.78 Sem Categoria   R$      794.92
+         7 Produto 007                  80 R$      9.99 Sem Categoria   R$      799.20
+         8 Produto 008                   1 R$      1.00 Sem Categoria   R$        1.00
+         9 Produto 009                 100 R$     12.12 Sem Categoria   R$     1212.00
+        10 Piso Escurial                10 R$      1.11 Pisos           R$       11.10
+=====================================================================================
+TOTAL                                 1620                              R$    54315.57

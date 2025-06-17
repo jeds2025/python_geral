@@ -1,0 +1,6 @@
+P001;Caneta Azul;10;1.50
+P002;Caderno 10 Mat;5;15.00
+P001;Caneta Azul;5;1.50
+P003;Lapis Grafite;20;0.80
+P002;Caderno 10 Mat;2;15.00
+P001;Caneta Vermelha;8;1.60
