@@ -1,4 +1,4 @@
-import unicodedata
+# import unicodedata
 from typing import List, Dict
 
 def remover_acentos(texto: str) -> str:
